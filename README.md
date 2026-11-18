@@ -4,7 +4,7 @@
       <img src="6544.gif" width="100%">
     </td>
     <td width="50%" valign="top">
-      <h2>Hi! I'm midnight, and I'm going to eat you!</h2>
+      <h2> bound by one goal , bound by one chain</h2>
       <img spr="images.jpe" width="100%">
     </td>
   </tr>
